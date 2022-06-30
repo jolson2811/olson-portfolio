@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olson-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/olson-portfolio/static/js/main.5fcdd28b.js",
+    "static/js/787.19bb4fbc.chunk.js": "/olson-portfolio/static/js/787.19bb4fbc.chunk.js",
+    "static/media/coverImage.jpg": "/olson-portfolio/static/media/coverImage.22532ab8bf437cf45275.jpg",
+    "index.html": "/olson-portfolio/index.html",
+    "main.073c9b0a.css.map": "/olson-portfolio/static/css/main.073c9b0a.css.map",
+    "main.5fcdd28b.js.map": "/olson-portfolio/static/js/main.5fcdd28b.js.map",
+    "787.19bb4fbc.chunk.js.map": "/olson-portfolio/static/js/787.19bb4fbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5fcdd28b.js"
+  ]
+}
